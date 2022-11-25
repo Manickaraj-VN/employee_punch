@@ -1,0 +1,34 @@
+.card1{ 
+    margin-top: 25px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.inscard1
+{
+    margin:40px;
+}
+.bgimg{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+}
+.bg1img{
+    background-image: url(images/kgisl-TalentX.png);
+    background-size: contain;
+    z-index: 99999;
+    max-width: 100vh;
+}
+.scaleimg{
+    background-image: url(images/cross-sympol.png);
+    max-height: 100vh;
+}
+.marg{
+margin-top: 100px;
+}
+.loghead{
+    text-align: center;
+}
+/* nav */
+.nav_imag{
+    size: 10px;
+    
+}
